@@ -1,6 +1,12 @@
 # Picture_cutting
 训练示例图裁剪并制作PDF
 
+# 效果
+![94297d1dae827a81bc0b9763516786ca](https://github.com/user-attachments/assets/2b9accc5-8ac8-408f-b78e-999481930cd3)
+![8845140db63210f042aa453d4e613308](https://github.com/user-attachments/assets/74dd1363-d937-436b-a9bc-291594aac258)
+
+
+
 # 安装
 
 测试环境python3.12.4
