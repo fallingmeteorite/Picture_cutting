@@ -20,3 +20,17 @@ mkdir Images_save
 
 mkdir Pretreatment
 ```
+# 准备
+Pretreatment文件夹存放要处理图片
+
+# 运行
+
+```
+python run.py 
+```
+
+# 可修改参数
+run.py文件中函数导入值
+width_incise=3, 宽平分个数
+height_incise=5, 长平分个数
+quality_save=10, 保存图片质量
